@@ -1,3 +1,5 @@
+console.log("JS is connected!");
+
 const affirmations = [
   "I am becoming stronger every day.",
   "I am where I am meant to be.",
