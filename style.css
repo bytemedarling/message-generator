@@ -18,3 +18,7 @@ button {
     border: none;
     border-radius: 5px;
 }
+
+btn:hover {
+    background-color: #f175e3;
+}
