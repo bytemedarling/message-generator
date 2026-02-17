@@ -19,6 +19,6 @@ button {
     border-radius: 5px;
 }
 
-btn:hover {
+#btn:hover {
     background-color: #f175e3;
 }
